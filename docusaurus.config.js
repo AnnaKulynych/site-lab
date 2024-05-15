@@ -8,7 +8,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'About dogs and people',
+  title: 'About dogs and impact people',
   tagline: 'How dogs impact us',
   favicon: 'https://www.svgrepo.com/show/170070/dog-pawprints.svg',
 
