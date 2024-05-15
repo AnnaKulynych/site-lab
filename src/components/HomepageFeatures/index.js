@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Fact 1',
-    Svg: require('C:/Users/User/site-lab/src/components/HomepageFeatures/dog-svgrepo-com.svg').default,
+    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
         Health Benefits: Owning a dog has been linked to numerous health benefits for humans, including lower stress levels, increased physical activity, and improved cardiovascular health.
@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'Fact 2',
-    Svg: require('C:/Users/User/site-lab/src/components/HomepageFeatures/dog-pawprint.svg').default,
+    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
         Improved Mental Health: Pets offer unconditional love — which can be a great comfort to everyone — but particularly helpful for people with mental health conditions or those going through a tough time.
@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: 'Fact 3',
-    Svg: require('C:/Users/User/site-lab/src/components/HomepageFeatures/dog.svg').default,
+    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
         Owning a pet — especially a dog — can help individuals connect with their community, fostering social interactions and friendships.
