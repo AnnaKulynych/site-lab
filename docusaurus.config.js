@@ -13,7 +13,7 @@ const config = {
   favicon: 'https://www.svgrepo.com/show/170070/dog-pawprints.svg',
 
   // Set the production url of your site here
-  url: 'https://AnnaKulynych.github.io',
+  url: 'https://github.com/AnnaKulynych',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/site-lab/',
